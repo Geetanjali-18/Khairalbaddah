@@ -187,3 +187,13 @@ section::after{
         font-size: 28px;
     }
 }
+
+.info-box{
+    width: 100%;
+    height: fit-content;
+    background-color: black;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding:15px;
+  }
